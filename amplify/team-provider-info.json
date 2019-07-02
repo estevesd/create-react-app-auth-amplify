@@ -1,0 +1,19 @@
+{
+    "amplify": {
+        "awscloudformation": {
+            "AuthRoleName": "authcra-amplify-20190702134109-authRole",
+            "UnauthRoleArn": "arn:aws:iam::225223728783:role/authcra-amplify-20190702134109-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::225223728783:role/authcra-amplify-20190702134109-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "authcra-amplify-20190702134109-deployment",
+            "UnauthRoleName": "authcra-amplify-20190702134109-unauthRole",
+            "StackName": "authcra-amplify-20190702134109",
+            "StackId": "arn:aws:cloudformation:eu-central-1:225223728783:stack/authcra-amplify-20190702134109/0cd304b0-9ccf-11e9-a1f6-0a4de0a8f3d8"
+        },
+        "categories": {
+            "auth": {
+                "cognitocf0c6096": {}
+            }
+        }
+    }
+}
